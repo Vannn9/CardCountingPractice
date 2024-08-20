@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Card_Counting_Practice_app/static/css/main.2e124911.css",
-    "main.js": "/Card_Counting_Practice_app/static/js/main.ea5dbb4e.js",
+    "main.js": "/Card_Counting_Practice_app/static/js/main.a6663ac2.js",
     "static/js/453.59c2da03.chunk.js": "/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js",
     "index.html": "/Card_Counting_Practice_app/index.html",
     "main.2e124911.css.map": "/Card_Counting_Practice_app/static/css/main.2e124911.css.map",
-    "main.ea5dbb4e.js.map": "/Card_Counting_Practice_app/static/js/main.ea5dbb4e.js.map",
+    "main.a6663ac2.js.map": "/Card_Counting_Practice_app/static/js/main.a6663ac2.js.map",
     "453.59c2da03.chunk.js.map": "/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e124911.css",
-    "static/js/main.ea5dbb4e.js"
+    "static/js/main.a6663ac2.js"
   ]
 }
