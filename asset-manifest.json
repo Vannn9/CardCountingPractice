@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vannn9/Card_Counting_Practice_app/static/css/main.2e124911.css",
+    "main.js": "/Vannn9/Card_Counting_Practice_app/static/js/main.e0bd1573.js",
+    "static/js/453.59c2da03.chunk.js": "/Vannn9/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js",
+    "index.html": "/Vannn9/Card_Counting_Practice_app/index.html",
+    "main.2e124911.css.map": "/Vannn9/Card_Counting_Practice_app/static/css/main.2e124911.css.map",
+    "main.e0bd1573.js.map": "/Vannn9/Card_Counting_Practice_app/static/js/main.e0bd1573.js.map",
+    "453.59c2da03.chunk.js.map": "/Vannn9/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e124911.css",
+    "static/js/main.e0bd1573.js"
+  ]
+}
