@@ -1,0 +1,49 @@
+.count-check-popup {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.count-check-popup h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #282c34;
+}
+
+.count-check-popup label {
+    display: block;
+    margin-bottom: 5px;
+    color: #282c34;
+}
+
+.count-check-popup input {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.count-check-popup button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    color: #282c34;
+    transition: background-color 0.3s ease;
+}
+
+.count-check-popup button:hover {
+    background-color: #21a1f1;
+}
+
+.count-check-popup .result {
+    margin-top: 15px;
+    color: #282c34;
+    font-size: 1.1em;
+}
+  

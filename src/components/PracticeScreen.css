@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 5px;
+    color: #282c34;
+}
+
+.dealButtonContainer {
+    margin-bottom: 20px;
+}
+
+.handContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.card {
+    width: 100px; /* Set the desired width */
+    height: auto;
+    display: inline-block;
+    margin: 0 5px;
+  }
+  
