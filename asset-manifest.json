@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Card_Counting_Practice_app/static/css/main.2e124911.css",
-    "main.js": "/Card_Counting_Practice_app/static/js/main.191fc67b.js",
-    "static/js/453.59c2da03.chunk.js": "/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js",
-    "index.html": "/Card_Counting_Practice_app/index.html",
-    "main.2e124911.css.map": "/Card_Counting_Practice_app/static/css/main.2e124911.css.map",
-    "main.191fc67b.js.map": "/Card_Counting_Practice_app/static/js/main.191fc67b.js.map",
-    "453.59c2da03.chunk.js.map": "/Card_Counting_Practice_app/static/js/453.59c2da03.chunk.js.map"
+    "main.css": "/CardCountingPractice/static/css/main.2e124911.css",
+    "main.js": "/CardCountingPractice/static/js/main.0d092349.js",
+    "static/js/453.59c2da03.chunk.js": "/CardCountingPractice/static/js/453.59c2da03.chunk.js",
+    "index.html": "/CardCountingPractice/index.html",
+    "main.2e124911.css.map": "/CardCountingPractice/static/css/main.2e124911.css.map",
+    "main.0d092349.js.map": "/CardCountingPractice/static/js/main.0d092349.js.map",
+    "453.59c2da03.chunk.js.map": "/CardCountingPractice/static/js/453.59c2da03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e124911.css",
-    "static/js/main.191fc67b.js"
+    "static/js/main.0d092349.js"
   ]
 }
